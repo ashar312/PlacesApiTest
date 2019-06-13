@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "517369113944",
+    "firebase_url": "https://placestest-1bf67.firebaseio.com",
+    "project_id": "placestest-1bf67",
+    "storage_bucket": "placestest-1bf67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517369113944:android:f0edb493f56b6bcb",
+        "android_client_info": {
+          "package_name": "com.example.placestest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517369113944-tsnhno3k13scp6c4b9pmftt6hsr58gh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoTs0RiAvxmUD49tIXtAaKYSxbiNj7A98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517369113944-tsnhno3k13scp6c4b9pmftt6hsr58gh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
